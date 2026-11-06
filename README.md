@@ -1,3 +1,8 @@
+> **foxnaim** · Инструмент проверки сетевых камер на известные уязвимости
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия GPL-3.0 сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 <div align=center>
     <img alt="Ingram" src="https://github.com/jorhelp/imgs/blob/master/Ingram/logo.png">
 </div>
